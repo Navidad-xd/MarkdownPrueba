@@ -4,7 +4,7 @@ Aquí simplemente nos dedicamos a escribir texto. Esto es un párrafo.
 
 Esto es otro párrafo
 
-Quiero poner algo en **negrita**.
+Quiero poner algo en **negrita**. :nerd_face:.
 
 Enlace a [Google](https://www.google.com).
 
