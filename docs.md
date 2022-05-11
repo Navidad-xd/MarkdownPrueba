@@ -19,4 +19,11 @@ Lista enumerada con orden:
 3. Ahora toca tomar
 
 ## Conclusión
-Si
+
+Pues eso, pa subir el comando utilizamos:
+
+```bash
+git add .
+git commit -m "descripcion"
+git push
+```
